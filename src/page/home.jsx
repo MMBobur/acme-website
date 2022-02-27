@@ -1,8 +1,13 @@
 import React from 'react'
 
+
+import Cards from '../containers/cards/index.jsx' 
+
 function Home() {
   return (
-    <div>Home</div>
+    <div>
+      <Cards />
+    </div>
   )
 }
 

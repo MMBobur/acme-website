@@ -1,0 +1,32 @@
+.footer{
+    background-color: #222;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+.container{
+    display: flex;
+    padding-left: 170px;
+}
+
+.social-icons{
+    display: flex;
+    width: 77%;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+.social-icons img{
+    width: 30px;
+    height: 30px;
+}
+
+.bottom{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.bottom a{
+    color: #eb5757;
+}

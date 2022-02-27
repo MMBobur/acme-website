@@ -4,7 +4,7 @@ import './index.css'
 const FooterComponent = () => {
   return (
     <div className='footer'>
-        <div className="container">
+        <div className="container containerFooter">
           <div className="logo">
             <img src="https://assets.website-files.com/5e7ff3ec0c4ef4c974fa99e3/5e7ff57adad44d1f072965b6_logo.svg" alt="" />
           </div>

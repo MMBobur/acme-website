@@ -1,7 +1,6 @@
 import React from "react";
 
 import Card from "../../components/card/index.jsx";
-
 import CardsData from "./cards.js";
 
 const Cards = () => {

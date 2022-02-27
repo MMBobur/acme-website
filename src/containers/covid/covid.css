@@ -1,0 +1,27 @@
+.covid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 50px 4% 0px 4%;
+    font-family: sans-serif;
+    grid-gap: 50px;
+}
+
+.covid h3 {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+.covid h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-weight: bold;
+    color: #333;
+}
+
+.covid p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    width: 500px;
+}

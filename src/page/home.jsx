@@ -1,8 +1,12 @@
 import React from 'react'
 
+import Covid from '../containers/covid/index'
+
 function Home() {
   return (
-    <div>Home</div>
+    <div>
+      <Covid />
+    </div>
   )
 }
 

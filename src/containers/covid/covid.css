@@ -1,0 +1,22 @@
+.covid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    font-family: sans-serif;
+    padding: 40px 0;
+}
+
+.covid div:first-child h3 {
+    font-size: 16px;
+    color: #333;
+}
+.covid div:first-child h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.covid div:last-child p {
+    max-width: 500px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}

@@ -1,0 +1,58 @@
+.shop-local-section {
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+.container {
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.shop-local-wrapper {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    min-height: 500px;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+}
+.shop-local-left {
+    position: absolute;
+    left: 0%;
+    top: 6%;
+    right: auto;
+    bottom: 0%;
+    width: 30%;
+    height: 0px;
+    min-height: 440px;
+    border-radius: 5px;
+    background-image: url('https://img.freepik.com/free-photo/jpg-word-illustration_93826-818.jpg?size=626&ext=jpg');
+    background-position: 69% 80%;
+    background-size: 270%;
+    background-color: #222;
+}
+.shop-local-right {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 80%;
+    padding: 45px;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    border-radius: 5px;
+    background-color: #222;
+    color: #f9f9f9;
+}
+.shop-local-content-wrapper {
+    width: 80%;
+    padding-right: 145px;
+    padding-left: 145px;
+}

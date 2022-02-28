@@ -4,7 +4,7 @@ import FooterComponent from '../../components/footer'
 const Footer = () => {
   return (
     <div>
-        <FooterComponent/>
+        <FooterComponent />
     </div>
   )
 }

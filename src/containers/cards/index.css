@@ -1,0 +1,17 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    max-width: 70%;
+    margin: 6%;
+    margin-left: -8px;
+}

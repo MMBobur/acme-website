@@ -1,0 +1,74 @@
+.product{
+    width: 81%;
+    margin: auto;
+}
+
+.products{
+    display: flex;
+}
+
+.rasm{
+    width: 400px;
+    margin-left: 10px;
+}
+
+.matn{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.matn2{
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+.pro{
+    text-align: center;
+}
+
+.matn3{
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.matn4{
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+.tugma{
+    background-color: #EB5757;
+    color: white;
+    font-size: 19px;
+    font-family: Arial Black;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+
+.tugma:hover{
+    transition: 0.6s;
+    background-color: black;
+}
+
+.tugma2{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 30px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.tugma3{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.tugma2:hover{
+    background-color: #EB5757;
+    transition: 0.4s;
+}

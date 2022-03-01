@@ -16,6 +16,7 @@ function Home() {
       <Banner />
       <Covid />
       <Cards />
+      <Products/>
       <Keep />
       {/* <Products /> */}
       <Local />
